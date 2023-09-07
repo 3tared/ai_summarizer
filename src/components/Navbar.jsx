@@ -7,7 +7,7 @@ function Navbar() {
       <button
         type="button"
         className="black_btn"
-        onClick={() => window.open('https://github.com/3tared')}
+        onClick={() => window.open('https://github.com/3tared/ai_summarizer')}
       >
         My GitHub
       </button>
